@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>hopen: A cross-platform build system</title>
+        <link>https://hopenbuild.github.io/blog/</link>
+        <atom:link href="https://hopenbuild.github.io/blog/index.rss" rel="self" type="application/rss+xml" />
+        <description>Blog feed of hopen: A cross-platform build system</description>
+        <generator>Statocles 0.093</generator>
+        <item>
+            <title>Site created</title>
+            <link>https://hopenbuild.github.io/blog/2019/06/21/first-post/</link>
+            <guid>https://hopenbuild.github.io/blog/2019/06/21/first-post/</guid>
+            <description><![CDATA[
+                <h1>Site created</h1>
+
+<p>... even though there is no content yet.</p>
+
+
+
+            ]]></description>
+            <pubDate>
+                Fri, 21 Jun 2019 00:00:00 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>
+

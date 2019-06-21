@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hopenbuild.github.io/blog/</id>
+    <title>hopen: A cross-platform build system</title>
+    <updated>2019-06-21T00:00:00Z</updated>
+    <link href="https://hopenbuild.github.io/blog/index.atom" rel="self" />
+    <link href="https://hopenbuild.github.io/blog/" rel="alternate" />
+    <generator version="0.093">Statocles</generator>
+
+    <entry>
+        <id>https://hopenbuild.github.io/blog/2019/06/21/first-post/</id>
+        <title>Site created</title>
+        <link href="https://hopenbuild.github.io/blog/2019/06/21/first-post/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <h1>Site created</h1>
+
+<p>... even though there is no content yet.</p>
+
+
+
+        ]]></content>
+        <updated>2019-06-21T00:00:00Z</updated>
+    </entry>
+</feed>
+
