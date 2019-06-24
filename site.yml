@@ -30,6 +30,8 @@ site:
     class: 'Statocles::Site'
 
     args:
+        images:
+            icon: /static/favicon.png
 
         # title: This is the title of the site, shown in the <title> tag
         title: 'hopen: A cross-platform build system'
