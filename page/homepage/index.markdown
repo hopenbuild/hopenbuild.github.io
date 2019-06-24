@@ -1,5 +1,6 @@
 ---
 title: The hopen cross-platform build system
+layout: layout/full-width.html
 ---
 
 # hopen build system
