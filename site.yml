@@ -71,7 +71,7 @@ site:
             $ref: 'theme'
 
         # index: The path to the page that should be used for the site index.
-        index: '/page'
+        index: '/page/homepage'
 
         # nav: These are lists of navigation links used by the theme.
         # Navigations are used to move between applications, or to go to
